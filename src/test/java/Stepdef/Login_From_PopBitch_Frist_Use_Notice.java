@@ -99,6 +99,8 @@ public class Login_From_PopBitch_Frist_Use_Notice {
 	    String Login_From_PopBitch_Frist_Use_Notice_Popbitch_Login_Url1 = "https://popbitch.com/2018/10/ii-defective-inspector/";
 	    Assert.assertEquals(Login_From_PopBitch_Frist_Use_Notice_Current_Url1, Login_From_PopBitch_Frist_Use_Notice_Popbitch_Login_Url1);
 	    System.out.println("Complete article opened");
+	    System.out.println("Complete article opened");
+	    
 		
 		
 	}
