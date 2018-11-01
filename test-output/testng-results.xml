@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-31T17:13:06Z" name="Default suite" finished-at="2018-10-31T17:13:29Z" duration-ms="23862">
+    <groups>
+    </groups>
+    <test started-at="2018-10-31T17:13:06Z" name="Default test" finished-at="2018-10-31T17:13:29Z" duration-ms="23862">
+      <class name="Stepdef.Login_From_PopBitch_Frist_Use_Notice">
+        <test-method signature="i_am_a_registered_user_I_open_the_browser()[pri:0, instance:Stepdef.Login_From_PopBitch_Frist_Use_Notice@343570b7]" started-at="2018-10-31T17:13:06Z" name="i_am_a_registered_user_I_open_the_browser" finished-at="2018-10-31T17:13:07Z" duration-ms="1179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i_am_a_registered_user_I_open_the_browser -->
+        <test-method signature="i_navigate_to_popbitch_com()[pri:0, instance:Stepdef.Login_From_PopBitch_Frist_Use_Notice@343570b7]" started-at="2018-10-31T17:13:07Z" name="i_navigate_to_popbitch_com" finished-at="2018-10-31T17:13:07Z" duration-ms="703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i_navigate_to_popbitch_com -->
+        <test-method signature="i_click_on_the_Stories_Menu()[pri:1, instance:Stepdef.Login_From_PopBitch_Frist_Use_Notice@343570b7]" started-at="2018-10-31T17:13:07Z" name="i_click_on_the_Stories_Menu" finished-at="2018-10-31T17:13:16Z" duration-ms="8096" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i_click_on_the_Stories_Menu -->
+        <test-method signature="i_click_on_the_Premium_Story()[pri:2, instance:Stepdef.Login_From_PopBitch_Frist_Use_Notice@343570b7]" started-at="2018-10-31T17:13:16Z" name="i_click_on_the_Premium_Story" finished-at="2018-10-31T17:13:21Z" duration-ms="5292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i_click_on_the_Premium_Story -->
+        <test-method signature="i_Click_on_Login_to_Agate_from_the_Pop_Bitch_First_use_notice()[pri:3, instance:Stepdef.Login_From_PopBitch_Frist_Use_Notice@343570b7]" started-at="2018-10-31T17:13:21Z" name="i_Click_on_Login_to_Agate_from_the_Pop_Bitch_First_use_notice" finished-at="2018-10-31T17:13:23Z" duration-ms="2077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i_Click_on_Login_to_Agate_from_the_Pop_Bitch_First_use_notice -->
+        <test-method signature="i_verify_that_the_Login_Button_Navigates_me_to_the_login_page()[pri:4, instance:Stepdef.Login_From_PopBitch_Frist_Use_Notice@343570b7]" started-at="2018-10-31T17:13:23Z" name="i_verify_that_the_Login_Button_Navigates_me_to_the_login_page" finished-at="2018-10-31T17:13:23Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i_verify_that_the_Login_Button_Navigates_me_to_the_login_page -->
+        <test-method signature="i_Login_with_correct_Details()[pri:5, instance:Stepdef.Login_From_PopBitch_Frist_Use_Notice@343570b7]" started-at="2018-10-31T17:13:23Z" name="i_Login_with_correct_Details" finished-at="2018-10-31T17:13:26Z" duration-ms="3470" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i_Login_with_correct_Details -->
+        <test-method signature="i_verify_that_I_am_navigated_to_the_full_article()[pri:6, instance:Stepdef.Login_From_PopBitch_Frist_Use_Notice@343570b7]" started-at="2018-10-31T17:13:26Z" name="i_verify_that_I_am_navigated_to_the_full_article" finished-at="2018-10-31T17:13:29Z" duration-ms="3007" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i_verify_that_I_am_navigated_to_the_full_article -->
+      </class> <!-- Stepdef.Login_From_PopBitch_Frist_Use_Notice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

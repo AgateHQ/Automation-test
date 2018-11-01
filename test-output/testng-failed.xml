@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="Stepdef.Login_From_PopBitch_Frist_Use_Notice">
+        <methods>
+          <include name="i_click_on_the_Stories_Menu"/>
+          <include name="i_Click_on_Login_to_Agate_from_the_Pop_Bitch_First_use_notice"/>
+          <include name="i_am_a_registered_user_I_open_the_browser"/>
+          <include name="i_navigate_to_popbitch_com"/>
+          <include name="i_verify_that_the_Login_Button_Navigates_me_to_the_login_page"/>
+          <include name="i_Login_with_correct_Details"/>
+          <include name="i_click_on_the_Premium_Story"/>
+          <include name="i_verify_that_I_am_navigated_to_the_full_article"/>
+        </methods>
+      </class> <!-- Stepdef.Login_From_PopBitch_Frist_Use_Notice -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
